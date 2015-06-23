@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-my new file99
-=======
-my new file5
->>>>>>> origin/master
+example.1
+
